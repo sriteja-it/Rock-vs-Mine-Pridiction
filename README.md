@@ -112,3 +112,4 @@ To run this project locally, follow these steps:
 ## 1. Clone the Repository
 
 ```bash
+https://github.com/sriteja-it/Rock-vs-Mine-Pridiction
